@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav className="flex flex-wrap justify-center gap-4">
                 <a href="#overview" className="text-slate-900 hover:text-blue-700">Overview</a>
                 <a href="#students" className= "text-slate-900 hover:text-blue-700">Students</a>
-                <a href="temperature.html" className="text-slate-900 hover:text-blue-700">Add a Student</a>
+                <a href="#add-student" className="text-slate-900 hover:text-blue-700">Add a Student</a>
 
         </nav>
         </div>
