@@ -1,12 +1,10 @@
 # New Generation High School Student Portal
 
 ## Deployed Website
-
-Vercel: https://your-project-name.vercel.app
+Vercel: https://web-assignment2-tau.vercel.app
 
 ## GitHub Repository
-
-https://github.com/RoselleB/web-assignment2
+https://github.com/RoselleB/web-assignment2.git
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
